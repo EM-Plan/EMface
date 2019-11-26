@@ -1,10 +1,10 @@
 # EMface: Detecting hard faces by exploring receptive field pyramids
 This is an official Pytorch implementation of paper entitled "EMface: Detecting hard faces by exploring receptive field pyramids".
 # Requirement
-Python 3.5
-Pytorch 0.4+
-opencv
-numpy
+Python 3.5　
+Pytorch 0.4+　
+opencv　
+numpy　
 # Prepare data
 download wider face dataset, and modify the datapath in data/config.py.
 # Train
